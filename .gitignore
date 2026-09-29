@@ -4,9 +4,13 @@ devenv.local.nix
 devenv.local.yaml
 devenv.nix
 devenv.yaml
+devenv.lock
 
 # direnv
 .direnv
 
 # pre-commit
 .pre-commit-config.yaml
+
+# agents
+roadmap.md
