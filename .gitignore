@@ -6,6 +6,18 @@ devenv.nix
 devenv.yaml
 devenv.lock
 
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Python tooling
+pyproject.toml
+uv.lock
+
 # direnv
 .direnv
 
